@@ -8,4 +8,4 @@ authors: "Ameya Deshmukh, <strong>Dheeraj Baiju</strong>, Atish Atish, Tejasvi A
 venue: "IEEE Transactions on Vehicular Technology"
 arxiv: "https://ieeexplore.ieee.org/document/10966015"
 ---
-We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy.
+This paper proposes a two-tiered BFT consensus framework for vehicular networks that uses geographic clustering to reduce messaging complexity from O(n²) to O(n¹·⁵), enhancing scalability and efficiency over traditional PBFT.
