@@ -6,7 +6,7 @@ image: images/revisiting_pc.png
 categories: research
 authors: "Stuti Pathak, Prashant Kumar, <strong>Dheeraj Baiju</strong>, Nicholus Mboga, Gunther Steenackers, Rudi Penne"
 venue: "Under Review at ICCV"
-arxiv: https://arxiv.org/abs/2411.17580
+arxiv: "https://arxiv.org/abs/2411.17580"
 code: 
 website: 
 ---
