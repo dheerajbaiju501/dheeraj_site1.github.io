@@ -6,7 +6,6 @@ image: /images/3dgaussian.jpg
 categories: research
 authors: "Stuti Pathak, Prashant Kumar, <strong>Dheeraj Baiju</strong>, Nicholus Mboga, Gunther Steenackers, Rudi Penne"
 venue: "arXiv"
-Paper: https://arxiv.org/abs/2411.17580
-website: https://leonidk.github.io/fmb-plus
+paper: https://arxiv.org/abs/2411.17580
 ---
 We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
