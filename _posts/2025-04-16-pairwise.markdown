@@ -2,11 +2,11 @@
 layout: post
 title:  "An Efficient and Scalable Byzantine Fault Tolerant Consensus for Vehicular Networks"
 date:   2025-04-16 22:21:59 +00:00
-image: /images/tvt.png
+image: "/Users/dheeraj.baiju/Desktop/dheeraj/dheeraj_site1.github.io/images/tvt.png"
 categories: research
 authors: "Ameya Deshmukh,<strong>Dheeraj Baiju</strong>, Atish Atish, Tejasvi Alladi, F.Richard Yu"
 venue: "IEEE Transactions on Vehicular Technology"
-Xplore: https://ieeexplore.ieee.org/document/10966015
+Xplore: "https://ieeexplore.ieee.org/document/10966015"
 
 ---
 We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy.
