@@ -6,6 +6,8 @@ image: images/revisiting_pc.png
 categories: research
 authors: "Stuti Pathak, Prashant Kumar, <strong>Dheeraj Baiju</strong>, Nicholus Mboga, Gunther Steenackers, Rudi Penne"
 venue: "Under Review at ICCV"
-paper: https://arxiv.org/abs/2411.17580
+arxiv: https://arxiv.org/abs/2411.17580
+code: 
+website: 
 ---
 We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
