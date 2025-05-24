@@ -4,8 +4,7 @@ title:  "Revisiting Point Cloud Completion: Are We Ready For The Real-World?"
 date:   2023-08-28 22:21:59 +00:00
 image: /images/3dgaussian.jpg
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+authors: "Stuti Pathak, Prashant Kumar, <strong>Dheeraj Baiju</strong>, Nicholus Mboga, Gunther Steenackers, Rudi Penne"
 venue: "arXiv"
 Paper: https://arxiv.org/abs/2411.17580
 website: https://leonidk.github.io/fmb-plus
