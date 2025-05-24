@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revisiting Point Cloud Completion: Are We Ready For The Real-World?"
-date:   2025-04-11 22:21:59 +00:00
+date:   2025-04-17 22:21:59 +00:00
 image: /images/revisiting_pc.png
 categories: research
 authors: "Stuti Pathak, Prashant Kumar, <strong>Dheeraj Baiju</strong>, Nicholus Mboga, Gunther Steenackers, Rudi Penne"
