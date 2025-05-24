@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "technology for Differentiable Rendering with 3D Gaussians"
+title:  "Revisiting Point Cloud Completion: Are We Ready For The Real-World?"
 date:   2023-08-28 22:21:59 +00:00
 image: /images/3dgaussian.jpg
 categories: research
