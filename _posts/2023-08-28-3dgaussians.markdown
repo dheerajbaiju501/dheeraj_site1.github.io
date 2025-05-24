@@ -7,8 +7,7 @@ categories: research
 author: "Leo Keselman"
 authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
 venue: "arXiv"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
+Paper: https://arxiv.org/abs/2411.17580
 website: https://leonidk.github.io/fmb-plus
 ---
 We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
