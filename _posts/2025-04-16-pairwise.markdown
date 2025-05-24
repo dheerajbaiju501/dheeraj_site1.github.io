@@ -2,7 +2,7 @@
 layout: post
 title:  "An Efficient and Scalable Byzantine Fault Tolerant Consensus for Vehicular Networks"
 date:   2025-04-16 22:21:59 +00:00
-image: /images/pairwise.png
+image: /images/tvt.png
 categories: research
 authors: "Ameya Deshmukh,<strong>Dheeraj Baiju</strong>, Atish Atish, Tejasvi Alladi, F.Richard Yu"
 venue: "IEEE Transactions on Vehicular Technology"
