@@ -4,7 +4,7 @@ title:  "Rigid-body Dynamics for Articulated Mesh Tracking"
 date:   2015-06-12 22:20:59 +00:00
 image: images/realpc (1).png
 categories: research
-author: "Leo Keselman"
+author: "Leo Keselmanx"
 subtitle: "Invited Workshop Talk"
 venue: "CVPR Workshops (HANDS)"
 slides: /pdfs/hands2015.pdf
