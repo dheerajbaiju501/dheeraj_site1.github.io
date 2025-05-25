@@ -6,6 +6,6 @@ image: "/images/tvt1.png"
 categories: research
 authors: "Ameya Deshmukh, <strong>Dheeraj Baiju</strong>, Atish Atish, Tejasvi Alladi, F. Richard Yu"
 venue: "IEEE Transactions on Vehicular Technology"
-arxiv: "https://ieeexplore.ieee.org/document/10966015"
+xplore: "https://ieeexplore.ieee.org/document/10966015"
 ---
 We propose a two-tiered BFT consensus framework for vehicular networks that uses geographic clustering to reduce messaging complexity from O(n²) to O(n¹·⁵), enhancing scalability and efficiency over traditional PBFT.
