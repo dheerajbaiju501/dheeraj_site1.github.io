@@ -10,5 +10,7 @@ arxiv: "https://arxiv.org/abs/2411.17580"
 ---
 We propose RealPC, a real-world industrial point cloud dataset with rich topological features, and presents BOSHNet, a model that leverages these features to improve point cloud completion.
 
-<img src="{{ site.baseurl }}/images/realpc_resized.png" alt="RealPC">
+<img src="/images/realpc_resized.png" alt="project image">
+
+
 
